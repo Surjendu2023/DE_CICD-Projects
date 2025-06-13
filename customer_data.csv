@@ -1,0 +1,195 @@
+cust_id,F_Name,L_Name,Phone_Number,Region,Address
+94,"Udarsh","Ramakrishnan","05955372248","Motihari","H.No. 18, Chandran, Rampur-368006"
+71,"Varsha","Barad","+917034451326","Raebareli","H.No. 859
+Krishna Street, Kurnool-822289"
+93,"Gopal","Walla","+919409874519","Meerut","74/598
+Ranganathan Circle
+Khandwa-988496"
+59,"Xiti","Ramaswamy","2980045268","Bhatpara","63
+Sengupta Nagar, Sikar-218563"
+56,"Rehaan","Dalal","08786968722","Solapur","61/85
+Murthy Zila
+Salem-383914"
+43,"Bhavya","Sehgal","1309923316","Bharatpur","65, Oommen Nagar, Rampur 679921"
+96,"Advika","Natarajan","07744588151","Aurangabad","870, Guha Circle
+Bhagalpur 431041"
+63,"Chaitaly","Magar","0952025214","Kottayam","88/36, Dixit Nagar
+Moradabad 216323"
+23,"Teerth","Nagy","+912362177293","Begusarai","H.No. 56, Dhingra, Gaya-544662"
+20,"Charles","Raju","6228533606","Kozhikode","15/057, Soman Street
+Burhanpur-235600"
+21,"Osha","Vora","01092388957","Bulandshahr","H.No. 388
+Bhat Zila
+Ballia-138261"
+65,"Bhavika","Varghese","5298190412","Ozhukarai","324
+Palla Path
+Agartala 576096"
+25,"Advik","Dhar","7805899036","Phusro","H.No. 941, Dara Chowk, Anantapur 684866"
+42,"Ria","Dhawan","07701482901","Serampore","21/78, Dubey Road
+Bokaro-426061"
+19,"Orinder","Nanda","3659262461","Karnal","89, Sura Nagar
+Bhiwani-557851"
+71,"Ishaan","Banerjee","1274700937","Bulandshahr","65, Malhotra Circle
+Alappuzha-926130"
+75,"Ishaan","Parmer","+911751216879","Panihati","61/695, Buch, Cuttack 285434"
+63,"Ayush","Edwin","+913813681086","Kochi","492, Kunda Marg, Imphal 458496"
+33,"Harish","Chatterjee","+916273125403","Gorakhpur","801, Kari Zila, Arrah 024131"
+95,"Raksha","Dhar","5276195865","Tirupati","H.No. 771, Bir Marg, Bhind 375476"
+46,"Gaurangi","Devan","8449785237","Nizamabad","H.No. 908, Mitter
+Bellary 095888"
+78,"Devansh","Bal","7364782672","Madhyamgram","55/584, Divan Nagar
+Khammam 356024"
+64,"Balhaar","Memon","05707168023","Raiganj","12, Prasad Street
+Mirzapur-043743"
+45,"Saanvi","Gulati","03717093981","Silchar","H.No. 494, Dasgupta Zila
+Pimpri-Chinchwad-948844"
+76,"Manthan","Sachdeva","06502434065","Tezpur","00/77, Shenoy Marg
+Srikakulam 327624"
+30,"Harrison","Ramanathan","+914053003955","Ratlam","414, Ghosh
+Kirari Suleman Nagar-918603"
+39,"Omaja","Keer","+915802725904","Tumkur","503, Sama Zila
+Ludhiana-172751"
+31,"Abha","Apte","+910723260705","Surat","H.No. 88
+Bahl Ganj
+Bihar Sharif-306439"
+49,"Niharika","Gill","09542518712","Imphal","H.No. 929
+Lalla Chowk
+Shahjahanpur 051425"
+47,"William","Rege","04043772105","Sikar","H.No. 249, Bhattacharyya Nagar
+Siliguri-689362"
+6,"Harini","Modi","1256409476","Tumkur","518
+Gandhi Chowk, Tadepalligudem 110175"
+62,"Pavani","Sehgal","0902982253","Allahabad","11
+Batra Street, Rajkot 183201"
+16,"Tanish","Raval","4475315712","Srikakulam","H.No. 824, Ray Street
+Jalna 257595"
+84,"Frado","Talwar","9756873998","Gangtok","H.No. 605, Hayre Marg
+Dewas-408551"
+87,"Ishwar","Bajaj","8045765301","Ahmednagar","573, Shan Street
+Etawah-379631"
+35,"Bachittar","Varkey","8237648518","Raiganj","26/58, Dass Path
+Ranchi 582654"
+28,"Ishanvi","Sengupta","6674019741","Jalandhar","H.No. 132
+Narang
+Jorhat-065584"
+62,"Mitali","Sha","+910593595433","Ramgarh","H.No. 993
+Kashyap Nagar, North Dumdum 141731"
+98,"Zashil","Gill","01992672565","Barasat","95/36
+Dutta Street, Tezpur 912865"
+23,"Jacob","Mutti","06309158740","Uluberia","044, Murty Chowk, Pudukkottai 907731"
+24,"Ayush","Kaur","08580244070","Burhanpur","H.No. 223
+Pandya Chowk, Parbhani-149129"
+67,"Qabil","Seth","1869711580","Pimpri-Chinchwad","00, Aurora Zila
+Anantapuram-157969"
+94,"Geetika","Pant","05884399706","Sambhal","56/149
+Soni
+Fatehpur 778130"
+58,"Riya","Lal","+910975445085","Tenali","55
+Barad Street, Purnia 780567"
+28,"Abdul","Cheema","6601110766","Ajmer","H.No. 950
+Purohit Street
+Bhind-682397"
+48,"Hardik","Mander","01217108836","Gopalpur","H.No. 70
+Nayar Path
+Ludhiana-194107"
+100,"Anay","Bhatt","06366517892","Bhagalpur","79, Batra, Mathura-234405"
+15,"Ishita","Kunda","0633917208","Khammam","97/989
+Gupta Road, Kamarhati 491864"
+74,"Oviya","Brahmbhatt","9001558114","Bhubaneswar","49
+Radhakrishnan Path, Thrissur-980775"
+51,"Sanaya","Murthy","0300562108","Imphal","H.No. 766
+Saha Marg, Avadi 069118"
+16,"Liam","Magar","01491687708","Mysore","62/12, Nigam Chowk, Jammu 433784"
+37,"Krishna","Tara","00864513634","Lucknow","32
+Handa Circle, Phagwara-265048"
+91,"Ishita","Dewan","+911014808020","Tiruppur","250, Khosla Ganj
+Satna 135384"
+3,"Vanya","Palan","2608735210","Bhopal","H.No. 68, Sibal Circle
+Meerut-829564"
+15,"Maanas","Sahni","01990276695","Kozhikode","H.No. 94, Rattan Circle, Chandigarh 389082"
+79,"Kalpit","Prabhu","+919453906030","Satna","67
+Rajagopalan Road, Bhind-783463"
+100,"Aarna","Sur","07083713096","Satara","69, Wable
+Firozabad-673539"
+27,"Advika","Narang","07944678830","Coimbatore","693
+Lata Circle
+Surendranagar Dudhrej-236644"
+79,"Dhriti","Basu","7484109189","Phusro","088
+Dugar Street, Ahmednagar-153876"
+8,"Upma","Lall","+912857918430","Ajmer","96
+Walla Nagar
+Chinsurah-866053"
+81,"Sudiksha","Mohanty","07325821169","Patiala","887
+Prashad Path, Uluberia 939114"
+64,"Tarak","Vohra","3002621144","Guna","241
+Vasa Ganj, Aurangabad 331171"
+73,"Azad","Dhar","6092698121","Asansol","81, Dewan Marg, Sultan Pur Majra 105595"
+92,"Yauvani","Chakrabarti","+917174713478","Dibrugarh","H.No. 447
+Balay
+Ludhiana-845412"
+6,"Oviya","Vyas","0040721864","Sasaram","H.No. 855
+Mannan Street, Adoni 221394"
+60,"Aditya","Bahri","+915164360676","Bally","11/596, Shan Path
+Kollam 732244"
+85,"Kamya","Suri","+917933340675","Junagadh","782, Mammen, Hyderabad 957252"
+38,"Chandani","Soman","+917928410076","Pudukkottai","11/10
+Rama Ganj
+Lucknow 197168"
+33,"Upma","Soni","+910970837074","Parbhani","35/267, Jayaraman Nagar
+Chittoor-956288"
+78,"Isha","Shanker","07961307148","Mira-Bhayandar","H.No. 234, Sood Chowk
+Mathura-523747"
+93,"Mason","Sachar","2760083806","Varanasi","H.No. 59, Ramanathan Street, Chittoor-315847"
+25,"Kamya","Jaggi","+919308837500","Ghaziabad","H.No. 34, Ramakrishnan Chowk
+Adoni 838205"
+72,"Upadhriti","Chandran","09176716078","Nagpur","30/86, Sur Path
+Hospet-300069"
+78,"Charita","Natt","08298924024","Jamshedpur","H.No. 455
+Datta Zila
+Visakhapatnam-502649"
+51,"Ubika","Chauhan","5939756138","Thoothukudi","752
+Barman Zila, Amravati-343970"
+29,"Krish","Toor","04026301122","Tadepalligudem","17/89, Nagi Street
+Hospet-404989"
+60,"Ishanvi","Mammen","04371942468","Bathinda","30, Mitra Marg, Vadodara-803608"
+55,"Azad","Kala","+917324841846","Guna","H.No. 557, Sethi Marg
+Sasaram-312394"
+58,"Luke","Dhawan","9577591705","Chapra","970, Nagi Road
+Gorakhpur-565287"
+21,"Waida","Kunda","03403160540","Bhubaneswar","40/771
+Parikh Circle
+Sikar-589443"
+48,"Pratyush","Narasimhan","6338399231","Bhimavaram","16
+Balan Path, Ambala 786188"
+92,"Yashodhara","Iyengar","09943808933","Saharsa","H.No. 932, Bajaj Nagar, Kirari Suleman Nagar 780565"
+17,"Mahika","Ganesh","09053808159","Varanasi","H.No. 921, Mahal Circle
+Vijayawada-542743"
+95,"Nakul","Menon","05718682889","Howrah","23
+Thaker Circle
+Nandyal 151799"
+20,"Watika","Kar","02589353441","Pondicherry","60/785
+Lad Street, Ozhukarai 922213"
+33,"Siddharth","Hans","+916619008882","Vellore","047
+Saxena, Tirunelveli 954379"
+6,"Fariq","Garg","2093150303","Karnal","635, Hans Path, Warangal-851950"
+34,"Yagnesh","Misra","00027077502","Bidhannagar","30/453, Dhar Circle, Guntur-301241"
+92,"Chakradhar","Srinivas","+919305266385","Unnao","804
+Oommen Nagar, Sangli-Miraj & Kupwad-507317"
+42,"Ladli","Raja","06836837178","Naihati","69, Seth Marg, Naihati-381573"
+11,"Viraj","Rajan","00170075782","Ozhukarai","H.No. 968, Tella Path, Srikakulam 933150"
+62,"Arin","Ramakrishnan","7808269260","Bhiwandi","H.No. 23, Acharya Path
+Thoothukudi-195792"
+36,"Ishani","Bera","6018612987","Bhagalpur","H.No. 002, Barman, Pondicherry-243571"
+35,"Gaurav","Singh","9512145958","Muzaffarnagar","32/366
+Barad Nagar, Ulhasnagar 253268"
+77,"Tarak","Joshi","5711972533","Udaipur","316, Kade Marg
+Erode 058312"
+8,"Indrajit","Sachar","00364671055","Rajkot","70/06
+Kala Road, Panihati-954257"
+35,"Charan","Krishna","8032741583","Begusarai","98/16, Pant Ganj
+Khandwa-776880"
+27,"Chandani","Kapoor","+910666817360","Kolkata","H.No. 040, Prakash Road, Amravati-974371"
+58,"Vedika","Kalita","6783244422","Jhansi","H.No. 16
+Biswas Marg, Gulbarga 564863"
+12,"Faqid","Saini","8623945942","Adoni","68/69, Chowdhury Zila
+Dhanbad 108985"
